@@ -1,0 +1,57 @@
+com.moviles.FlavioAPP.app-lifecycle-runtime-ktx-2.6.2-0 C:\Users\PC\.gradle\caches\transforms-4\006e2a504b9495cf27700a901591f51f\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.moviles.FlavioAPP.app-ui-util-release-1 C:\Users\PC\.gradle\caches\transforms-4\05cce594b9ed6eec4cbbf056957b399c\transformed\ui-util-release\res
+com.moviles.FlavioAPP.app-lifecycle-viewmodel-2.6.2-2 C:\Users\PC\.gradle\caches\transforms-4\0d46255b5791d1c67362301f281ad85e\transformed\lifecycle-viewmodel-2.6.2\res
+com.moviles.FlavioAPP.app-material3-release-3 C:\Users\PC\.gradle\caches\transforms-4\123939cf078d6f8744e5a28e6a9ce940\transformed\material3-release\res
+com.moviles.FlavioAPP.app-lifecycle-viewmodel-compose-2.6.2-4 C:\Users\PC\.gradle\caches\transforms-4\192de5597e3d51cfd5f4884d33c0f12a\transformed\lifecycle-viewmodel-compose-2.6.2\res
+com.moviles.FlavioAPP.app-navigation-common-ktx-2.7.7-5 C:\Users\PC\.gradle\caches\transforms-4\1bf8c35908116697fb3a266759d208ba\transformed\navigation-common-ktx-2.7.7\res
+com.moviles.FlavioAPP.app-material-ripple-release-6 C:\Users\PC\.gradle\caches\transforms-4\1c420758307dfc6ceb44879df1607591\transformed\material-ripple-release\res
+com.moviles.FlavioAPP.app-foundation-layout-release-7 C:\Users\PC\.gradle\caches\transforms-4\227ec16e6fbf96d7a3480ca83fd20568\transformed\foundation-layout-release\res
+com.moviles.FlavioAPP.app-sqlite-framework-2.4.0-8 C:\Users\PC\.gradle\caches\transforms-4\28801344fa32f89d1cd780bda6328587\transformed\sqlite-framework-2.4.0\res
+com.moviles.FlavioAPP.app-material-release-9 C:\Users\PC\.gradle\caches\transforms-4\28a450961398ee7c82f8acc8d3233faa\transformed\material-release\res
+com.moviles.FlavioAPP.app-lifecycle-process-2.6.2-10 C:\Users\PC\.gradle\caches\transforms-4\2a9cf2620780422d5167c555275846fe\transformed\lifecycle-process-2.6.2\res
+com.moviles.FlavioAPP.app-animation-core-release-11 C:\Users\PC\.gradle\caches\transforms-4\319a2c352aa56eec1e181a1ca29e6a95\transformed\animation-core-release\res
+com.moviles.FlavioAPP.app-foundation-release-12 C:\Users\PC\.gradle\caches\transforms-4\3ea9fe2db735667a4f325849d9e50137\transformed\foundation-release\res
+com.moviles.FlavioAPP.app-lifecycle-viewmodel-ktx-2.6.2-13 C:\Users\PC\.gradle\caches\transforms-4\42a3bdfeee31b0d0e9c429314a62720a\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.moviles.FlavioAPP.app-ui-test-manifest-1.6.6-14 C:\Users\PC\.gradle\caches\transforms-4\43703bafa96e3e2e3e72b3431c505f26\transformed\ui-test-manifest-1.6.6\res
+com.moviles.FlavioAPP.app-ui-tooling-release-15 C:\Users\PC\.gradle\caches\transforms-4\45148691f4bd36ad1007ce2476041c4c\transformed\ui-tooling-release\res
+com.moviles.FlavioAPP.app-room-runtime-2.6.1-16 C:\Users\PC\.gradle\caches\transforms-4\4bbd93c70686f7880c60d4511a851a76\transformed\room-runtime-2.6.1\res
+com.moviles.FlavioAPP.app-savedstate-1.2.1-17 C:\Users\PC\.gradle\caches\transforms-4\549d7d9cc3778d404891c73e869ac5b4\transformed\savedstate-1.2.1\res
+com.moviles.FlavioAPP.app-customview-poolingcontainer-1.0.0-18 C:\Users\PC\.gradle\caches\transforms-4\54d67d9fbeed4d628a09ae6259c00c45\transformed\customview-poolingcontainer-1.0.0\res
+com.moviles.FlavioAPP.app-ui-tooling-data-release-19 C:\Users\PC\.gradle\caches\transforms-4\5ab7d4c2f18289a8d5e0b4bb149918d4\transformed\ui-tooling-data-release\res
+com.moviles.FlavioAPP.app-navigation-compose-2.7.7-20 C:\Users\PC\.gradle\caches\transforms-4\60c2ce68463cc6e3f4a6892ab3223a05\transformed\navigation-compose-2.7.7\res
+com.moviles.FlavioAPP.app-activity-1.8.0-21 C:\Users\PC\.gradle\caches\transforms-4\61bf5bca255477492002457627971d06\transformed\activity-1.8.0\res
+com.moviles.FlavioAPP.app-navigation-common-2.7.7-22 C:\Users\PC\.gradle\caches\transforms-4\6da342f7a96da838b7863f10b9f0785d\transformed\navigation-common-2.7.7\res
+com.moviles.FlavioAPP.app-ui-text-release-23 C:\Users\PC\.gradle\caches\transforms-4\6f3f5cee694d49558fadc3e88ccab4f9\transformed\ui-text-release\res
+com.moviles.FlavioAPP.app-startup-runtime-1.1.1-24 C:\Users\PC\.gradle\caches\transforms-4\715f7be77919f5077cd02825585ded89\transformed\startup-runtime-1.1.1\res
+com.moviles.FlavioAPP.app-ui-graphics-release-25 C:\Users\PC\.gradle\caches\transforms-4\7c726ee8bd5a1b7b92cf6cf9083434d2\transformed\ui-graphics-release\res
+com.moviles.FlavioAPP.app-core-runtime-2.2.0-26 C:\Users\PC\.gradle\caches\transforms-4\7cf4bcab110459409df30b14b94a48eb\transformed\core-runtime-2.2.0\res
+com.moviles.FlavioAPP.app-navigation-runtime-2.7.7-27 C:\Users\PC\.gradle\caches\transforms-4\7e29a71a8afb86a66465231674760401\transformed\navigation-runtime-2.7.7\res
+com.moviles.FlavioAPP.app-material-icons-core-release-28 C:\Users\PC\.gradle\caches\transforms-4\89428fc604c1d053312c900cd65f87c8\transformed\material-icons-core-release\res
+com.moviles.FlavioAPP.app-savedstate-ktx-1.2.1-29 C:\Users\PC\.gradle\caches\transforms-4\8ab428377ba0e2972992680249b94e76\transformed\savedstate-ktx-1.2.1\res
+com.moviles.FlavioAPP.app-play-services-basement-16.0.1-30 C:\Users\PC\.gradle\caches\transforms-4\93adfa6ac1635a2cd8706bd7670ce690\transformed\play-services-basement-16.0.1\res
+com.moviles.FlavioAPP.app-ui-tooling-preview-release-31 C:\Users\PC\.gradle\caches\transforms-4\96a36a2bfd56ce2f77628eafc48a6ffe\transformed\ui-tooling-preview-release\res
+com.moviles.FlavioAPP.app-runtime-release-32 C:\Users\PC\.gradle\caches\transforms-4\9d0ce71c965e081d2f1d850ab55d9b76\transformed\runtime-release\res
+com.moviles.FlavioAPP.app-annotation-experimental-1.4.0-33 C:\Users\PC\.gradle\caches\transforms-4\9ebcb029d2b0e66aa24e54b7085cb14a\transformed\annotation-experimental-1.4.0\res
+com.moviles.FlavioAPP.app-ui-unit-release-34 C:\Users\PC\.gradle\caches\transforms-4\9f6890ed43d9ae0e90138d78c7f3dd7b\transformed\ui-unit-release\res
+com.moviles.FlavioAPP.app-sqlite-2.4.0-35 C:\Users\PC\.gradle\caches\transforms-4\a15df3876a54d12b0dc97229aa523b45\transformed\sqlite-2.4.0\res
+com.moviles.FlavioAPP.app-runtime-saveable-release-36 C:\Users\PC\.gradle\caches\transforms-4\a26cbb669cd974f78f953e4cd0140826\transformed\runtime-saveable-release\res
+com.moviles.FlavioAPP.app-emoji2-1.3.0-37 C:\Users\PC\.gradle\caches\transforms-4\a830c756174d6b23fb92680df364ff23\transformed\emoji2-1.3.0\res
+com.moviles.FlavioAPP.app-room-ktx-2.6.1-38 C:\Users\PC\.gradle\caches\transforms-4\b209a31aa05e2e5c0f43ab9b50277a0b\transformed\room-ktx-2.6.1\res
+com.moviles.FlavioAPP.app-activity-ktx-1.8.0-39 C:\Users\PC\.gradle\caches\transforms-4\b31ebd59bdf5221e59c1a017f47ca137\transformed\activity-ktx-1.8.0\res
+com.moviles.FlavioAPP.app-lifecycle-viewmodel-savedstate-2.6.2-40 C:\Users\PC\.gradle\caches\transforms-4\b5b9acf4261e9de2a877f0ad00dda798\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.moviles.FlavioAPP.app-navigation-runtime-ktx-2.7.7-41 C:\Users\PC\.gradle\caches\transforms-4\bb66671894b683128a5a80a7f76246c5\transformed\navigation-runtime-ktx-2.7.7\res
+com.moviles.FlavioAPP.app-ui-release-42 C:\Users\PC\.gradle\caches\transforms-4\c7e06625d6f159996b88f42da4435f2c\transformed\ui-release\res
+com.moviles.FlavioAPP.app-lifecycle-runtime-2.6.2-43 C:\Users\PC\.gradle\caches\transforms-4\d0cdba0bc801926eee6bb602f1d41149\transformed\lifecycle-runtime-2.6.2\res
+com.moviles.FlavioAPP.app-ui-geometry-release-44 C:\Users\PC\.gradle\caches\transforms-4\d9bc383fa2b7ae3de5112f307cfaedd3\transformed\ui-geometry-release\res
+com.moviles.FlavioAPP.app-animation-release-45 C:\Users\PC\.gradle\caches\transforms-4\db49378e50b7a7eabeff8d6d4616b333\transformed\animation-release\res
+com.moviles.FlavioAPP.app-lifecycle-livedata-core-2.6.2-46 C:\Users\PC\.gradle\caches\transforms-4\e1ebc4396a5be0dce06862d8c118783c\transformed\lifecycle-livedata-core-2.6.2\res
+com.moviles.FlavioAPP.app-core-1.12.0-47 C:\Users\PC\.gradle\caches\transforms-4\f189df183428e6871769502c584cbfb5\transformed\core-1.12.0\res
+com.moviles.FlavioAPP.app-profileinstaller-1.3.0-48 C:\Users\PC\.gradle\caches\transforms-4\f5c4ee8d29bec2a2b24f6afb15cd3984\transformed\profileinstaller-1.3.0\res
+com.moviles.FlavioAPP.app-activity-compose-1.8.0-49 C:\Users\PC\.gradle\caches\transforms-4\f9b3cfedb23a6133a99be8c16d1da3d9\transformed\activity-compose-1.8.0\res
+com.moviles.FlavioAPP.app-core-ktx-1.12.0-50 C:\Users\PC\.gradle\caches\transforms-4\f9b78e58854cee7c110ea81a31e535e1\transformed\core-ktx-1.12.0\res
+com.moviles.FlavioAPP.app-resValues-51 C:\Users\PC\Desktop\Proyecto Final Moviles\myapp\MyApplication\app\build\generated\res\resValues\debug
+com.moviles.FlavioAPP.app-packageDebugResources-52 C:\Users\PC\Desktop\Proyecto Final Moviles\myapp\MyApplication\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.moviles.FlavioAPP.app-packageDebugResources-53 C:\Users\PC\Desktop\Proyecto Final Moviles\myapp\MyApplication\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.moviles.FlavioAPP.app-debug-54 C:\Users\PC\Desktop\Proyecto Final Moviles\myapp\MyApplication\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.moviles.FlavioAPP.app-debug-55 C:\Users\PC\Desktop\Proyecto Final Moviles\myapp\MyApplication\app\src\debug\res
+com.moviles.FlavioAPP.app-main-56 C:\Users\PC\Desktop\Proyecto Final Moviles\myapp\MyApplication\app\src\main\res
